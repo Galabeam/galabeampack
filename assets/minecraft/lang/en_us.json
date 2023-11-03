@@ -2801,7 +2801,6 @@
   "createWorld.tab.game.title": "game",
   "createWorld.tab.more.title": "moar",
   "createWorld.tab.world.title": "World",
-<<<<<<< HEAD
   "credits_and_attribution.button.attribution": "nerd attribution stuff",
   "credits_and_attribution.button.credits": "Credits",
   "credits_and_attribution.button.licenses": "licenses",
@@ -2812,18 +2811,6 @@
   "dataPack.trade_rebalance.description": "Updated trades for Villagers",
   "dataPack.trade_rebalance.name": "Villager Trade Rebalance",
   "dataPack.update_1_20.description": "new stuff for minceraft 1.20",
-=======
-  "credits_and_attribution.button.attribution": "nerd attribution shit",
-  "credits_and_attribution.button.credits": "credits",
-  "credits_and_attribution.button.licenses": "licenses",
-  "credits_and_attribution.screen.title": "credits and nerd attribution shit",
-  "dataPack.bundle.description": "activates the infamous experimental bundle item",
-  "dataPack.bundle.name": "bundles",
-  "dataPack.title": "data packs",
-  "dataPack.trade_rebalance.description": "updated trades for villagers",
-  "dataPack.trade_rebalance.name": "villager trade rebalance",
-  "dataPack.update_1_20.description": "new shit for minceraft 1.20",
->>>>>>> 3e08c50ce43d10cc0c66ddbbb65fac34e28dab84
   "dataPack.update_1_20.name": "update 1.20",
   "dataPack.update_1_21.description": "new shit and content for minceraft 1.21",
   "dataPack.update_1_21.name": "update 1.21",
@@ -4897,13 +4884,8 @@
   "optimizeWorld.progress.counter": "%s / %s",
   "optimizeWorld.progress.percentage": "%s%%",
   "optimizeWorld.stage.counting": "I gotta count these chunks...",
-<<<<<<< HEAD
-  "optimizeWorld.stage.failed": "FUCK, I failed",
-  "optimizeWorld.stage.finished": "almost done...",
-=======
   "optimizeWorld.stage.failed": "FRIDGES, I failed",
   "optimizeWorld.stage.finished": "almost done holmes...",
->>>>>>> 3e08c50ce43d10cc0c66ddbbb65fac34e28dab84
   "optimizeWorld.stage.upgrading": "fixing all chunks...",
   "optimizeWorld.title": "fixing this world called, '%s'",
   "options.accessibility": "accessibility settings...",
@@ -4918,11 +4900,7 @@
   "options.accessibility.text_background_opacity": "text background opacity",
   "options.accessibility.text_background.chat": "chat",
   "options.accessibility.text_background.everywhere": "everywhere",
-<<<<<<< HEAD
   "options.accessibility.title": "accessibility",
-=======
-  "options.accessibility.title": "accessibility stuff",
->>>>>>> 3e08c50ce43d10cc0c66ddbbb65fac34e28dab84
   "options.allowServerListing": "you wans server listing?",
   "options.allowServerListing.tooltip": "servers may list online players as part of their public status.\nwith this option off your name will not show up in such lists.",
   "options.ao": "butter lighting",
@@ -5128,17 +5106,6 @@
   "pack.copyFailure": "FRIDGE, I failed to copy",
   "pack.dropConfirm": "you shure buddy?",
   "pack.dropInfo": "drag n drop",
-<<<<<<< HEAD
-  "pack.dropRejected.message": "The following entries were not valid packs and were not copied:\n %s",
-  "pack.dropRejected.title": "Non-pack entries",
-  "pack.folderInfo": "place dem here",
-  "pack.incompatible": "NAH NAH NAH G",
-  "pack.incompatible.confirm.new": "this is newer",
-  "pack.incompatible.confirm.old": "this is older",
-  "pack.incompatible.confirm.title": "you sure buddy?",
-  "pack.incompatible.new": "this was made for somethin' newer",
-  "pack.incompatible.old": "this was made for somethin' older",
-=======
   "pack.dropRejected.message": "the following entries were not valid packs and were not copied:\n %s",
   "pack.dropRejected.title": "non-pack entries",
   "pack.folderInfo": "place them here",
@@ -5148,7 +5115,6 @@
   "pack.incompatible.confirm.title": "you shure buddy?",
   "pack.incompatible.new": "this was made for something newer",
   "pack.incompatible.old": "this was made for something older",
->>>>>>> 3e08c50ce43d10cc0c66ddbbb65fac34e28dab84
   "pack.nameAndSource": "%s (%s)",
   "pack.openFolder": "open folder",
   "pack.selected.title": "you selected this",
@@ -5284,13 +5250,8 @@
   "resourcePack.vanilla.name": "default",
   "screenshot.failure": "fridge, i could save this: %s",
   "screenshot.success": "saved it as %s",
-<<<<<<< HEAD
-  "selectServer.add": "Add Server",
-  "selectServer.defaultName": "server",
-=======
   "selectServer.add": "add server",
-  "selectServer.defaultName": "servo",
->>>>>>> 3e08c50ce43d10cc0c66ddbbb65fac34e28dab84
+  "selectServer.defaultName": "server",
   "selectServer.delete": "del",
   "selectServer.deleteButton": "del",
   "selectServer.deleteQuestion": "you shure buddy?",
@@ -5300,13 +5261,8 @@
   "selectServer.hiddenAddress": "(gone)",
   "selectServer.refresh": "reload it",
   "selectServer.select": "kinnect",
-<<<<<<< HEAD
   "selectServer.title": "select server",
-  "selectWorld.access_failure": "FUCK, I failed to access the world",
-=======
-  "selectServer.title": "selection servo",
   "selectWorld.access_failure": "FRIDGE, I failed to access the world",
->>>>>>> 3e08c50ce43d10cc0c66ddbbb65fac34e28dab84
   "selectWorld.allowCommands": "allow commands",
   "selectWorld.allowCommands.info": "you get stuff like /gamemode, /experience",
   "selectWorld.backupEraseCache": "erase cached data",
@@ -6471,10 +6427,5 @@
   "resourcepack.title": "select thy packs",
   "resourcepack.vanilla.description": "the nomo look and feel of minceraft",
   "resourcepack.vanilla.name": "defo",
-<<<<<<< HEAD
   "selectserver.add": "add server"
 }
-=======
-  "selectserver.add": "add servo"
-}
->>>>>>> 3e08c50ce43d10cc0c66ddbbb65fac34e28dab84
